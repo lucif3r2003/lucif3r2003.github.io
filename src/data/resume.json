@@ -1,0 +1,85 @@
+{
+  "name": "Bui Cong Manh",
+  "title": "Final-year Software Engineering student • Backend Developer",
+  "location": "Hanoi, Vietnam",
+  "email": "buimanhtk1979@gmail.com",
+  "phone": "+84 866855786",
+  "linkedin": "https://linkedin.com/in/manhbc",
+  "github": "https://github.com/lucif3r2003",
+  "summary": "Final-year Software Engineering student at FPT University with a year of hands-on experience as a Backend Developer. Skilled in Golang, C#, Node.js, and relational databases. Strong understanding of authentication, system integration, and high-performance backend design.",
+  "skills": [
+    "Go",
+    "C#",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "Golang",
+    "MySQL",
+    "MSSQL",
+    "Oracle",
+    "MongoDB",
+    "Docker",
+    "Git",
+    "Linux",
+    "Microservices",
+    "REST APIs",
+    "JWT",
+    "OAuth2"
+  ],
+  "experience": [
+    {
+      "role": "Web developer",
+      "company": "LYSA Company",
+      "period": "Jan 2026 - Present",
+      "location": "Ha Noi, Viet Nam",
+      "details": "Develop and maintain a B2B web platform similar to Odoo for European clients. Implement backend services using Node.js and PostgreSQL; build and integrate frontend features using the company's custom frontend framework; design RESTful APIs and collaborate with international technical experts."
+    },
+    {
+      "role": "Web developer",
+      "company": "MEIKO AUTOMATION JSC (MKAC)",
+      "period": "Jul 2024 - Jul 2025",
+      "location": "Ha Noi, Viet Nam",
+      "details": "Developed and maintained backend services using .NET, Node.js, and Golang within a microservices architecture; implemented hardware integrations (card scanners, printers, access terminals); optimized MySQL/Oracle queries and API pipelines; designed and maintained RESTful APIs and participated in full lifecycle development."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Electronic Components E-commerce Platform",
+      "period": "Aug 2025 - Nov 2025",
+      "role": "Full-stack (Freelance)",
+      "tech": ["React", "Node.js", "MongoDB", "JWT", "Docker"],
+      "desc": "Built a full-stack e-commerce application with authentication, product catalog, cart, orders, admin features and AI-assisted customer support integration."
+    },
+    {
+      "title": "Warehouse Management System",
+      "period": "Feb 2025 - Jun 2025",
+      "role": "Backend Developer",
+      "tech": ["C#", "Node.js", "Go", "MySQL"],
+      "desc": "Microservices platform for inventory and billing, integrated with parent company's API."
+    },
+    {
+      "title": "Factory Access Control System",
+      "period": "Jul 2024 - Dec 2024",
+      "role": "Backend Developer",
+      "tech": ["C#", "Node.js", "Go"],
+      "desc": "System for card issuance, QR code workflows and hardware integrations."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor Software Engineering",
+      "school": "FPT University",
+      "period": "Sep 2021 - Sep 2026",
+      "details": "Relevant coursework: Software Architecture, Distributed Systems, Database Systems, Network Programming, Cloud Computing"
+    }
+  ],
+  "certifications": [
+    "Academic English: Writing (May 2025)",
+    "Computer Communications (Credential ID: PZJZEG3ATWA5)",
+    "Software Development Lifecycle Specialization (Credential ID: U93U7CCPM8PY) — University of Minnesota (Mar 2024)",
+    "Project Management Principles and Practices (Nov 2023)"
+  ],
+  "languages": ["English (Professional working proficiency)"]
+}
+
